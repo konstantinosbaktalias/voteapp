@@ -1,0 +1,5 @@
+django
+rest_framework 
+uuid
+pyjwt
+django-cors-headers
